@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class main {
+public class Main {
     
     /*
     문제 설명
